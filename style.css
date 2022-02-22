@@ -122,11 +122,8 @@ form label, form legend{
 }
 
 .contato-main{
-
     width: 940px;
     margin: 0px auto;
-    
- 
 }
 
 .checkbox{
@@ -267,7 +264,7 @@ td, th{
 }
 
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos li, .contato-main{
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos li, .contato-main {
         width: auto;
     }
 
